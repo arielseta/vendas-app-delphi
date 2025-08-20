@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/08/19 19:40:31.000.060,=D:\Docs\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/19 19:43:39.000.274,D:\Docs\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Docs\Documents\Embarcadero\Studio\Projects\VendasApp.dproj</Transaction>
+    <Transaction>2025/08/19 19:44:28.000.047,D:\Docs\Documents\Embarcadero\Studio\Projects\VendasApp.dproj=D:\Docs\Documents\DesafioTecnico\VendasApp.dproj</Transaction>
+    <Transaction>2025/08/19 19:45:06.000.442,=D:\Docs\Documents\DesafioTecnico\VendasApp.dpr</Transaction>
+    <Transaction>2025/08/19 19:45:42.000.372,=D:\Docs\Documents\DesafioTecnico\src\Config\Config.DBConnection.pas</Transaction>
+    <Transaction>2025/08/19 19:45:51.000.106,=D:\Docs\Documents\DesafioTecnico\src\Controller\Controller.Pedido.pas</Transaction>
+    <Transaction>2025/08/19 19:46:01.000.450,=D:\Docs\Documents\DesafioTecnico\src\DAO\Dao.Produto.pas</Transaction>
+    <Transaction>2025/08/19 19:46:01.000.340,=D:\Docs\Documents\DesafioTecnico\src\DAO\Dao.Pedido.pas</Transaction>
+    <Transaction>2025/08/19 19:46:01.000.294,=D:\Docs\Documents\DesafioTecnico\src\DAO\Dao.Cliente.pas</Transaction>
+    <Transaction>2025/08/19 19:46:01.000.372,=D:\Docs\Documents\DesafioTecnico\src\DAO\Dao.PedidoItem.pas</Transaction>
+    <Transaction>2025/08/19 19:46:17.000.531,=D:\Docs\Documents\DesafioTecnico\src\Model\Model.PedidoItem.pas</Transaction>
+    <Transaction>2025/08/19 19:46:17.000.578,=D:\Docs\Documents\DesafioTecnico\src\Model\Model.Produto.pas</Transaction>
+    <Transaction>2025/08/19 19:46:17.000.468,=D:\Docs\Documents\DesafioTecnico\src\Model\Model.Pedido.pas</Transaction>
+    <Transaction>2025/08/19 19:46:17.000.390,=D:\Docs\Documents\DesafioTecnico\src\Model\Model.Cliente.pas</Transaction>
+    <Transaction>2025/08/19 19:46:17.000.437,=D:\Docs\Documents\DesafioTecnico\src\Model\Model.Interfaces.pas</Transaction>
+    <Transaction>2025/08/19 19:46:38.000.924,=D:\Docs\Documents\DesafioTecnico\src\View\View.ConsultaPedidos.pas</Transaction>
+    <Transaction>2025/08/19 19:46:39.000.174,=D:\Docs\Documents\DesafioTecnico\src\View\View.Principal.pas</Transaction>
+    <Transaction>2025/08/19 19:46:39.000.064,=D:\Docs\Documents\DesafioTecnico\src\View\View.Pedido.pas</Transaction>
+    <Transaction>2025/08/19 19:57:31.000.279,=D:\Docs\Documents\DesafioTecnico\Unit1.pas</Transaction>
+    <Transaction>2025/08/19 20:04:37.000.167,D:\Docs\Documents\DesafioTecnico\src\View\View.Principal.pas=</Transaction>
+    <Transaction>2025/08/19 20:04:46.000.516,D:\Docs\Documents\DesafioTecnico\Unit1.pas=D:\Docs\Documents\DesafioTecnico\src\View\View.Principal.pas</Transaction>
+    <Transaction>2025/08/19 20:04:46.000.516,D:\Docs\Documents\DesafioTecnico\Unit1.dfm=D:\Docs\Documents\DesafioTecnico\src\View\View.Principal.dfm</Transaction>
+    <Transaction>2025/08/19 20:30:45.000.059,=D:\Docs\Documents\DesafioTecnico\src\SQL\schema.sql</Transaction>
+    <Transaction>2025/08/19 20:52:24.000.947,D:\Docs\Documents\DesafioTecnico\src\View\View.Pedido.pas=D:\Docs\Documents\DesafioTecnico\src\View\View.Pedidos.pas</Transaction>
+    <Transaction>2025/08/19 20:52:24.000.947,D:\Docs\Documents\DesafioTecnico\src\View\View.Pedido.dfm=D:\Docs\Documents\DesafioTecnico\src\View\View.Pedidos.dfm</Transaction>
+    <Transaction>2025/08/19 22:42:09.000.744,D:\Docs\Documents\DesafioTecnico\src\Model\Model.Pedido.pas=D:\Docs\Documents\DesafioTecnico\src\Model\Model.Pedidos.pas</Transaction>
+    <Transaction>2025/08/19 22:42:15.000.307,D:\Docs\Documents\DesafioTecnico\src\DAO\Dao.Pedido.pas=D:\Docs\Documents\DesafioTecnico\src\DAO\Dao.Pedidos.pas</Transaction>
+  </Transactions>
+</BorlandProject>
