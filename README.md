@@ -4,9 +4,10 @@ Aplicação de venda, construída como desafio técnico.
 
 ---
 
-## 🙌 Autor | Author
+## 👤 Autor | Author
 
-**Ariel Seta**  
+Desenvolvido por **Ariel Seta**
+
 - 🔗 [LinkedIn](https://br.linkedin.com/in/arielseta)
 - 💻 [Portfólio](https://arielseta.github.io/)
 
