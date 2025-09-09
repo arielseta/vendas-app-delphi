@@ -12,6 +12,7 @@ Aplicação de venda, construída como desafio técnico.
 
 ---
 
-## 📝 Licença
+## 📄 Licença | License
 
-Este projeto foi desenvolvido como parte de um desafio técnico. Livre para uso educacional e profissional com os devidos créditos.
+Projeto desenvolvido como parte de um desafio técnico. Livre para uso educacional e profissional com os devidos créditos.
+Developed as part of a technical challenge. Free for educational and professional use with due credits.
